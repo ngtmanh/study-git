@@ -1,0 +1,1 @@
+Lớp Exception có hai lớp con chính: lớp IOException và lớp RuntimeException.
